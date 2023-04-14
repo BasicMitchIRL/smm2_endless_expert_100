@@ -1,0 +1,101 @@
+Level,Course_ID,Lives_Started,Lives_Ended,Net_Lives,Rating,First_Clear,World_Record,Level_Name,Region,Game_Style,Game_Theme,Tag_1,Tag_2,Clears,Attempts,Clear_Rate,Likes,Boos,Like_Ratio
+1,NGHNK46WF,15,16,1,0,FALSE,FALSE,Hot n' cold maze (level 2),US,SMB1,Ghost house,Short and sweet,Themed,6,80,7.5,3,1,75
+2,N0DB6PY9G,16,17,1,1,FALSE,FALSE,The Yoshi Paradox Puzzle,US,SMW,Ghost house,Puzzle solving,Technical,48,359,13.37,13,6,68.42
+3,XJ3K2YMCG,17,15,-2,0,FALSE,FALSE,Plataform Castle/ 1-3,MX,SMB3,Castle,Short and sweet,Single player,4,83,4.82,0,0,NA
+4,FM0C8MTKF,15,18,3,1,FALSE,FALSE,Claw Jumping In The Sky,CA,NSMBU,Sky,Technical,Single player,6,161,3.73,5,0,100
+5,1K94519RF,18,14,-4,0,FALSE,FALSE,sky speedrun medium/hard,IT,SMW,Sky,Speedrun,Short and sweet,12,449,2.67,3,3,50
+6,KM1LK067G,14,15,1,0,FALSE,FALSE,考える時間がないコース,JP,NSMBU,Overworld,Technical,Single player,23,304,7.57,4,1,80
+7,C4G94VGJG,15,13,-2,0,FALSE,FALSE,Clear wall jumps!,US,SM3DW,Sky,Themed,Single player,11,195,5.64,2,4,33.33
+8,F4DC6ST6G,13,15,2,0,FALSE,FALSE,シンプルスピードラン30秒！,JP,NSMBU,Airship,Speedrun,Single player,35,344,10.17,9,5,64.29
+9,TT9DXJWHG,15,16,1,0,FALSE,FALSE,ずるをしてベストタイムを競いあおう！70秒スピードラン,JP,NSMBU,Overworld,Speedrun,Short and sweet,17,519,3.28,7,0,100
+10,RBR2QHF5G,16,9,-7,0,FALSE,TRUE,ㄷ,KR,NSMBU,Airship,None,None,4,64,6.25,1,2,33.33
+11,PMNN9YDHF,9,11,2,0,FALSE,TRUE,castle escape,US,SMB1,Castle,Autoscroll,Short and sweet,3,25,12,0,0,NA
+12,RJNJ8FWQF,11,11,0,0,FALSE,FALSE,plumber 2,NL,SMW,Underground,Puzzle solving,Puzzle solving,18,177,10.17,3,2,60
+13,508H1QLKG,11,11,0,1,FALSE,FALSE,1-4 Nowhere Fast,GB,SMW,Overworld,Standard,Single player,1794,28778,6.23,663,81,89.11
+14,F97WSMNGF,11,14,3,0,FALSE,FALSE,Speed run×Keep run #2 ウルトラランナー!!,JP,SMW,Snow,Technical,Single player,149,1915,7.78,51,9,85
+15,2MRTYRV8G,14,16,2,0,FALSE,FALSE,troll,US,SMW,Ghost house,None,None,3,72,4.17,2,1,66.67
+16,J2046QBGG,16,15,-1,0,FALSE,FALSE,Poison Mushroom Army!,US,SMB1,Overworld,Speedrun,Boss battle,13,142,9.15,2,2,50
+17,BJMHGC1SF,15,18,3,1,FALSE,FALSE,"Snowball Throw, Run, Roll! [40s]",US,SMW,Snow,Speedrun,Short and sweet,156,3628,4.3,73,9,89.02
+18,LPB56PD9G,18,17,-1,0,FALSE,FALSE,大和しんさく大和しんさく大和しんさく大和しんさく大和しんさく大和,JP,NSMBU,Forest,Speedrun,Technical,4,53,7.55,1,1,50
+19,BRS4F32TG,17,20,3,0,FALSE,FALSE,samice,CA,SMW,Snow,None,None,80,1374,5.82,14,6,70
+20,4JWTPFRTF,20,18,-2,0,FALSE,FALSE,galoombas sky-high home,US,SMW,Sky,Standard,Standard,10,99,10.1,2,2,50
+21,8NVPQ0TLG,18,17,-1,1,FALSE,FALSE,5秒で針抜け！？,JP,SMB1,Castle,Short and sweet,Technical,8,109,7.34,4,2,66.67
+22,B6BR6XYWF,17,15,-2,0,FALSE,FALSE,巨漢がガチギレしたコース,JP,NSMBU,Overworld,None,None,7,105,6.67,1,4,20
+23,V2SWYXCXG,15,15,0,0,FALSE,FALSE,roller coster,US,NSMBU,Forest,Short and sweet,Themed,11,240,4.58,3,1,75
+24,5506CYJSF,15,18,3,0,FALSE,FALSE,フラワーをとるな！,JP,NSMBU,Overworld,Short and sweet,Technical,4,46,8.7,1,1,50
+25,Y2M789SMG,18,19,1,0,FALSE,FALSE,you rock,CA,SMW,Desert,Standard,Single player,13,301,4.32,7,2,77.78
+26,GB8LJQTSF,19,19,0,-1,FALSE,FALSE,へんなの,JP,SMW,Underground,Multiplayer versus,Technical,7,134,5.22,2,3,40
+27,GDLL4WWMG,19,19,0,1,FALSE,FALSE,Uno Más: Cmon Nintendo,US,SMB1,Overworld,None,None,23,174,13.22,14,6,70
+28,27C71MGKF,19,18,-1,0,FALSE,FALSE,Daring Frog Speedrun (20 Sec),US,SMB3,Forest,Speedrun,Short and sweet,279,3097,9.01,65,29,69.15
+29,0477011NG,18,14,-4,-1,FALSE,FALSE,WallJump with a Bomb-omb??,US,NSMBU,Overworld,Puzzle solving,Single player,8,571,1.4,5,2,71.43
+30,G6TQ46XGF,14,17,3,1,FALSE,FALSE,ムササビ練習場,JP,NSMBU,Overworld,Short and sweet,Single player,18,273,6.59,7,1,87.5
+31,7C8YJ2DRF,17,18,1,-1,FALSE,FALSE,いとこの挑戦じょう,JP,SM3DW,Underground,Speedrun,Short and sweet,2,17,11.76,0,1,0
+32,V5VK7SKYF,18,16,-2,1,FALSE,FALSE,Simon says (Comments on),DE,NSMBU,Overworld,Puzzle solving,Short and sweet,23,917,2.51,15,8,65.22
+33,BTH9SHWVF,16,17,1,-1,FALSE,FALSE,Mario maker 2 makes hard mode 2,US,SMB1,Castle,Standard,Speedrun,5,80,6.25,0,1,0
+34,7P2HYC60G,17,18,1,1,FALSE,FALSE,Zelda Dungeon: It's not Link,US,SM3DW,Forest,Puzzle solving,Themed,11,69,15.94,5,2,71.43
+35,M9VJP17MG,18,18,0,0,FALSE,FALSE,p pow & saw speedrun 11,ES,SMB3,Sky,Speedrun,Themed,11466,217382,5.27,3919,298,92.93
+36,SQJJV2NMG,18,20,2,0,FALSE,FALSE,にぬ17,JP,SMW,Airship,Autoscroll,Link,5,58,8.62,1,1,50
+37,W03F3122G,20,21,1,0,FALSE,FALSE,つかさの城,JP,SM3DW,Sky,Technical,Single player,7,98,7.14,3,4,42.86
+38,6QP2WX5FF,21,24,3,1,FALSE,FALSE,ミ★ Platforming Adventure #1 ☆彡,JP,SMB1,Snow,Technical,Single player,1366,16447,8.31,582,61,90.51
+39,TPN4WTX0H,24,23,-1,-1,FALSE,FALSE,77:70,US,NSMBU,Overworld,Standard,Standard,7,76,9.21,1,1,50
+40,VLXTRVTMF,23,25,2,0,FALSE,FALSE,？？？のスピードラン,JP,SMW,Overworld,Speedrun,Single player,41,410,10,9,6,60
+41,N3NPJM92G,25,25,0,0,FALSE,FALSE,【レモンのスピリレ】雪原のロングスピードラン/SPEED RUN,JP,SMW,Snow,Speedrun,Single player,363,8215,4.42,183,34,84.33
+42,KGP3MM2DG,25,22,-3,0,FALSE,FALSE,Level hard,FR,SMW,Castle,Standard,Single player,5,108,4.63,1,0,100
+43,84X8RRDGG,22,24,2,1,FALSE,FALSE,ただのスタンダードコースです。,JP,NSMBU,Desert,Standard,Single player,20,264,7.58,8,5,61.54
+44,G7QY38KSF,24,25,1,0,TRUE,TRUE,わーお,JP,NSMBU,Snow,Standard,Technical,1,4,25,0,0,NA
+45,V9SFXWCRF,25,26,1,0,FALSE,FALSE,W4-5 雨あたる巨大せんかん,JP,NSMBU,Airship,Standard,Standard,5,94,5.32,3,2,60
+46,6QGHJK1FF,26,28,2,1,FALSE,FALSE,SSW 3-3 Wiggler's jungle,FR,SMW,Forest,Standard,Themed,24,210,11.43,11,6,64.71
+47,6SMT2BPGG,28,29,1,0,FALSE,FALSE,de mini games,BE,SMW,Overworld,Themed,Technical,9,66,13.64,1,0,100
+48,7019454GF,29,29,0,0,FALSE,FALSE,-LU-,KR,NSMBU,Forest,Speedrun,Short and sweet,6,207,2.9,1,0,100
+49,2HMNWTT3G,29,32,3,-1,TRUE,TRUE,completely normal leval,US,SM3DW,Overworld,Standard,Short and sweet,1,12,8.33,0,1,0
+50,3C6451BMG,32,32,0,0,FALSE,FALSE,Midnight Monsters,US,SMB1,Ghost house,Standard,Standard,63,609,10.34,20,18,52.63
+51,NLJLTQ9MF,32,26,-6,0,FALSE,FALSE,Bean 12: The Bean Collector ,US,SMW,Castle,Short and sweet,Single player,9,113,7.96,2,1,66.67
+52,CQNXL5Y1G,26,28,2,0,FALSE,FALSE,MEOWSER 3D WORLD + Dark World,US,SM3DW,Desert,Technical,Boss battle,3,72,4.17,0,0,NA
+53,Y9QFRGSQF,28,30,2,1,FALSE,FALSE,Cool Platforming: Pond Hopping,US,NSMBU,Forest,Themed,Technical,24001,376965,6.37,7557,956,88.77
+54,PRDXMPKRG,30,31,1,1,FALSE,TRUE,Hilarious speedrun!!!,US,SMW,Overworld,Speedrun,Themed,185,2069,8.94,49,12,80.33
+55,MG6X8HRXF,31,31,0,0,FALSE,FALSE,sweetest farts,US,SM3DW,Forest,Art,Technical,4,191,2.09,1,2,33.33
+56,3Q4HG0C0H,31,30,-1,0,FALSE,FALSE,4-5 el castillo viento de Wendy,ES,NSMBU,Castle,Standard,Standard,4,56,7.14,1,1,50
+57,MPCXG8K6G,30,31,1,0,FALSE,FALSE,仕掛けの城,JP,SM3DW,Castle,Standard,Standard,8,105,7.62,1,1,50
+58,6SJ3CM8WF,31,27,-4,-1,FALSE,FALSE,謎解きだらけの屋敷,JP,SM3DW,Ghost house,Puzzle solving,Short and sweet,6,51,11.76,0,4,0
+59,DQF1248GF,27,28,1,0,FALSE,FALSE,Blocks Roller Coaster,AT,NSMBU,Castle,Puzzle solving,Themed,12,306,3.92,3,1,75
+60,0XCF8JRVF,28,27,-1,0,TRUE,TRUE,とどか､､､なくない？,JP,SM3DW,Overworld,Puzzle solving,Themed,1,12,8.33,0,2,0
+61,QK5YVR73G,27,29,2,0,FALSE,FALSE,Jimmy wants to go to the Zoo mom,US,NSMBU,Forest,Standard,Single player,14,353,3.97,21,10,67.74
+62,W38BRLJ6G,29,28,-1,1,FALSE,FALSE,Spin Jumping In Low Gravity,US,NSMBU,Sky,Technical,Single player,24,924,2.6,16,6,72.73
+63,0SSL07VLF,28,25,-3,-1,FALSE,FALSE,以外と出来ない,JP,NSMBU,Sky,Short and sweet,Technical,18,201,8.96,5,2,71.43
+64,G3P9D4YRG,25,27,2,0,FALSE,FALSE,◆∵ [30S] Infested Speedrun ∴◆,NL,SMW,Forest,Speedrun,Short and sweet,112,1310,8.55,33,8,80.49
+65,CHSW0YPVF,27,29,2,0,FALSE,FALSE,だましコース♪,JP,SM3DW,Underground,Standard,Single player,8,162,4.94,1,2,33.33
+66,RN6J3V0HF,29,31,2,1,FALSE,FALSE,地味に難しい。けどボーナスエリアはあるよー♪,JP,NSMBU,Overworld,Technical,Single player,11,141,7.8,4,2,66.67
+67,F18VRY2RG,31,32,1,1,FALSE,FALSE,lil platform gauntlet,US,SMB1,Overworld,Standard,Technical,14,257,5.45,5,0,100
+68,X2LBYF9PF,32,31,-1,-1,FALSE,FALSE,13,FR,NSMBU,Castle,Autoscroll,Boss battle,8,40,20,3,4,42.86
+69,L6LDDVRCG,31,28,-3,0,FALSE,FALSE,カオスなステージ,JP,NSMBU,Castle,Standard,Standard,3,191,1.57,0,1,0
+70,LXS3SD3MG,28,30,2,-1,FALSE,TRUE,Les petites épreuves du désert,FR,SMB1,Desert,Short and sweet,Multiplayer versus,3,20,15,0,1,0
+71,VRJQXMC2H,30,27,-3,-1,FALSE,FALSE,clean run,SE,SMW,Overworld,Speedrun,Multiplayer versus,16,91,17.58,3,5,37.5
+72,KK6CQ83SF,27,29,2,0,FALSE,FALSE,Castello di Bowser: Ultimate,IT,SMW,Castle,Standard,Themed,58,562,10.32,23,11,67.65
+73,NX5BF00VG,29,21,-8,-1,FALSE,FALSE,Don't hug me I'm TROLLED!,IE,SMW,Sky,Puzzle solving,Themed,53,1866,2.84,30,21,58.82
+74,SFY2FRXXG,21,21,0,0,FALSE,FALSE,Under The Waves - 20 Sec ,US,SMB1,Underground,Speedrun,Short and sweet,5,165,3.03,2,2,50
+75,GJX85J61G,21,23,2,0,FALSE,FALSE,かんたんな森,JP,SMB1,Forest,Multiplayer versus,Themed,3,15,20,0,1,0
+76,YT1M8SVQG,23,26,3,1,FALSE,FALSE,スピンジャンプでかけぬけろ！きもティ～スピードラン！！(20s),JP,NSMBU,Castle,Single player,Single player,24,551,4.36,7,2,77.78
+77,LY0MNM6PG,26,27,1,1,TRUE,TRUE,World 1-A - Koopa Cave ,CL,SMB1,Overworld,Short and sweet,Technical,7,86,8.14,3,0,100
+78,RVW3G366G,27,30,3,1,FALSE,FALSE,1-2アレンジ,JP,SMW,Overworld,Standard,Standard,4,44,9.09,1,0,100
+79,CLJHQJ6VF,30,33,3,0,FALSE,FALSE,EQ,JP,SMB1,Snow,Short and sweet,Music,3,29,10.34,0,0,NA
+80,V5PWQVLWG,33,32,-1,0,FALSE,FALSE,スピードランランシーソーHMJBAWTUIK,JP,NSMBU,Overworld,Speedrun,Single player,4,26,15.38,0,1,0
+81,F32L9PBSF,32,29,-3,0,FALSE,FALSE,flying blocks difficulty=8/10,NL,NSMBU,Castle,Technical,Single player,14,511,2.74,7,2,77.78
+82,CXP5R5VWF,29,32,3,0,FALSE,FALSE,ハンマーブロス家ーーーーーーーーーーーーーーーーー」？！！！！！,JP,SMB1,Overworld,Themed,Single player,21,161,13.04,6,1,85.71
+83,K3DB2759G,32,34,2,1,FALSE,TRUE,yoshi's revenge,NL,SMW,Castle,Standard,Short and sweet,2,37,5.41,1,2,33.33
+84,PJYY45HTG,34,35,1,1,FALSE,FALSE,Get grabbed (My first Level),DE,NSMBU,Overworld,Speedrun,Short and sweet,21,290,7.24,6,0,100
+85,6TMS0Y2TG,35,30,-5,1,FALSE,FALSE,ドッスンのすみか,JP,NSMBU,Snow,Standard,Short and sweet,8,268,2.99,7,2,77.78
+86,5SBT80M9G,30,30,0,1,FALSE,FALSE,練習4,JP,SMB1,Overworld,Short and sweet,Technical,17,265,6.42,9,2,81.82
+87,DGL9WYB3G,30,30,0,0,FALSE,FALSE,DANGELO the best hokage火 the 8th,US,NSMBU,Castle,Speedrun,Boss battle,5,34,14.71,0,0,NA
+88,M1M54M7TG,30,27,-3,0,FALSE,FALSE,Mario is big ! [20s],FR,SMW,Overworld,Speedrun,Short and sweet,5,135,3.7,3,2,60
+89,B14PWBWJF,27,28,1,1,FALSE,FALSE,A level Blue T,US,SMB1,Snow,Puzzle solving,Technical,6,95,6.32,2,2,50
+90,FFG2JSWXF,28,28,0,1,FALSE,FALSE,Donut Desert 3,GB,SMB3,Desert,Standard,Autoscroll,22,227,9.69,8,2,80
+91,J0Q9NPJ8G,28,29,1,0,FALSE,FALSE,ギキムズスピードラン,JP,SMW,Desert,Speedrun,Single player,24,549,4.37,5,1,83.33
+92,4307S85LG,29,25,-4,-1,FALSE,TRUE,笑い笑い,JP,SM3DW,Airship,Standard,Short and sweet,16,141,11.35,2,11,15.38
+93,XS58DB0KG,25,22,-3,1,FALSE,TRUE,スピラン？,JP,NSMBU,Overworld,Technical,Boss battle,11,155,7.1,2,1,66.67
+94,J4D1C0LLF,22,19,-3,-1,FALSE,TRUE,1-Jan,JP,NSMBU,Snow,Standard,Standard,3,63,4.76,2,2,50
+95,FFD2DGC2G,19,21,2,-1,FALSE,FALSE,はじめての騙しコース,JP,SM3DW,Desert,Themed,Themed,4,248,1.61,2,4,33.33
+96,85LF6CNKF,21,20,-1,0,FALSE,FALSE,Mario's Red Coin Speedrun 1,US,NSMBU,Castle,Speedrun,Themed,20,401,4.99,9,2,81.82
+97,QXF9GDPFF,20,22,2,1,FALSE,FALSE,Blizzard Beat,US,SMB3,Snow,Puzzle solving,Themed,119,2028,5.87,55,3,94.83
+98,MY7C65SHF,22,21,-1,1,FALSE,FALSE,"Houston , we have a problem.",CA,SM3DW,Underground,None,None,28,109,25.69,6,4,60
+99,25V0BM8XF,21,24,3,0,FALSE,FALSE,Speedrun in desert/砂漠のスピードラン,JP,NSMBU,Desert,Standard,Speedrun,13,212,6.13,4,1,80
+100,8XCJHXLSG,24,24,0,0,FALSE,FALSE,Drive Through Meowser Castle,US,SM3DW,Castle,Short and sweet,Themed,6,125,4.8,2,2,50

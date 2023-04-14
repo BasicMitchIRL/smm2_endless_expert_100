@@ -1,0 +1,107 @@
+---
+title: "100 Endless Expert Levels in a Row (Without Skipping)"
+format: html
+---
+
+# Installing Packages
+
+Make sure to install the following packages as they are used to access the TGR API which will be used
+
+```{r}
+# install.packages(c('httr', 'jsonlite'))
+```
+
+Load the libraries
+
+```{r}
+library(pacman)
+p_load(httr, jsonlite)
+```
+
+# Importing the Data
+
+The data comes from a .csv file that I started but will be completed using the SMM2 TGR API. The .csv file can be found in the Github repo and is titled `EE_100.csv`
+
+```{r}
+df <- read.csv(file = 'EE_100.csv')
+```
+
+Creating the columns for the level data we would like to collect
+
+```{r}
+df[c('Level_Name',
+     'Region',
+     'Game_Style',
+     'Game_Theme',
+     'Tag_1',
+     'Tag_2',
+     'Clears',
+     'Attempts',
+     'Clear_Rate',
+     'Likes',
+     'Boos'
+     )] <- NA
+```
+
+Next up we create a small function that makes use of the TGR API which can be found [here](https://tgrcode.com/mm2/docs/). Basically this is the way we are going to automatically gather crucial information such as level name, country of origin, number of plays, etc. 
+
+It is important to remember that SMM2 is a game that is enjoyed by players all of the world. It is just as common to find a level that has a Japanese title for example as it is to find one with an English title. Using this code will allow us to copy characters and symbols from other languages that would otherwise be very tedious trying to do by hand.
+
+```{r}
+
+level_info <- function(id) {
+  link <- paste("https://tgrcode.com/mm2/level_info/",id, sep = '')
+  res <- GET(link)
+  data <- fromJSON(rawToChar(res$content))
+}
+```
+
+Here we are simply iterating through each row and taking the unique course ID from each level and inputting it into the API. The API needs the course ID so that it can locate the level and return the relevant data.
+
+As a note, this **may** crash multiple times. The SMM2 TGR API is not an officially licensed API and as a result, there may be moments in which there is a momentary lapse in the connection. If this happens, just replace the number in the for loop with the number that the previous loop was on before it crashed. Of course there are more efficient ways to do this but I was going for a quick an easy approach. 
+
+I commented this out so that I could render this file.
+
+```{r}
+# for (row in 99:nrow(df)) {
+#   level <- df$Course_ID[row]
+#   info <- level_info(level)
+#   
+#   df$Level_Name[row] <- as.character(info$name)
+#   df$Region[row] <- as.character(info$uploader$country)
+#   df$Game_Style[row] <- info$game_style_name
+#   df$Game_Theme[row] <- info$theme_name
+#   df$Tag_1[row] <- info$tags_name[1]
+#   df$Tag_2[row] <- info$tags_name[2]
+#   df$Clears[row] <- info$clears
+#   df$Attempts[row] <- info$attempts
+#   df$Clear_Rate[row] <- info$clear_rate
+#   df$Likes[row] <- info$likes
+#   df$Boos[row] <- info$boos
+#   
+#   cat(df$Level[row],'/',nrow(df), '\n', sep = '')
+# }
+```
+
+From here we are creating another column so we can also calculate the Like/Boo ratio for each level. You could do this arithmetic in the previous line of code.
+
+```{r}
+df$Like_Ratio <- NA
+
+for (row in 1:nrow(df)) {
+  df$Like_Ratio[row] <- (df$Likes[row] / (df$Likes[row] + df$Boos[row]) * 100) 
+}
+```
+
+Rounding the numbers to make them look more presentable.
+
+```{r}
+df$Like_Ratio <- round(df$Like_Ratio, digit = 2)
+df$Clear_Rate <- round(df$Clear_Rate, digit = 2)
+```
+
+And now we can export!
+
+```{r}
+# write.csv(df, "C:\\Your\\Path\\Here\\File_Name.csv", row.names = FALSE)
+```
